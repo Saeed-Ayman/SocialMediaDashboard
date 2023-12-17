@@ -1,0 +1,38 @@
+[
+  {
+    "fill": "text-facebook",
+    "class": "border-facebook",
+    "name": "@nathanf",
+    "icon": "fa-facebook-square",
+    "title": "Followers",
+    "number": "1987",
+    "increment": "12"
+  },
+  {
+    "fill": "text-twitter",
+    "class": "border-twitter",
+    "name": "@nathanf",
+    "icon": "bi-twitter",
+    "title": "Followers",
+    "number": "1044",
+    "increment": "99"
+  },
+  {
+    "fill": "text-instagram",
+    "class": "border-instagram",
+    "name": "@realnathanf",
+    "icon": "ri-instagram-fill",
+    "title": "Followers",
+    "number": "11K",
+    "increment": "1099"
+  },
+  {
+    "fill": "text-youtube",
+    "class": "border-youtube",
+    "name": "Nathan F.",
+    "icon": "bi-youtube",
+    "title": "Subscribers",
+    "number": "8239",
+    "increment": "-144"
+  }
+]

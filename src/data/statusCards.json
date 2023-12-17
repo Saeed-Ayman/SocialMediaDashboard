@@ -1,0 +1,58 @@
+[
+  {
+    "fill": "text-facebook",
+    "title": "Page Views",
+    "number": "87",
+    "radio": "3",
+    "icon": "fa-facebook-square"
+  },
+  {
+    "fill": "text-facebook",
+    "title": "Likes",
+    "number": "52",
+    "radio": "-2",
+    "icon": "fa-facebook-square"
+  },
+  {
+    "fill": "text-instagram",
+    "title": "Likes",
+    "number": "5462",
+    "radio": "2257",
+    "icon": "ri-instagram-fill"
+  },
+  {
+    "fill": "text-instagram",
+    "title": "Profile Views",
+    "number": "52k",
+    "radio": "1375",
+    "icon": "ri-instagram-fill"
+  },
+  {
+    "fill": "text-twitter",
+    "title": "Retweets",
+    "number": "117",
+    "radio": "303",
+    "icon": "bi-twitter"
+  },
+  {
+    "fill": "text-twitter",
+    "title": "Likes",
+    "number": "507",
+    "radio": "553",
+    "icon": "bi-twitter"
+  },
+  {
+    "fill": "text-youtube",
+    "title": "Likes",
+    "number": "107",
+    "radio": "-19",
+    "icon": "bi-youtube"
+  },
+  {
+    "fill": "text-youtube",
+    "title": "Total Views",
+    "number": "1407",
+    "radio": "-12",
+    "icon": "bi-youtube"
+  }
+]
